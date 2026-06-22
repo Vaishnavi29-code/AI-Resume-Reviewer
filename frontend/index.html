@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME REVIEWER</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <main>
+        <div id="uploader">
+            <h1>AI RESUME <span>REVIEWER</span></h1>
+            <h2>Upload your resume </h2>
+            
+            <input type="file" name="CHOSE FILE" id="resume" accept=".pdf">
+            <textarea id="jobDescription" placeholder="Paste a job description here (optional, improves ATS scoring accuracy)" rows="5"></textarea>
+            <button type="button" id="btn">ANALYZE RESUME</button>
+        </div>
+        <div id="result"> 
+            <h3>RESUME ANALYSIS</h3>
+            <p class="placeholder-text">Upload your resume and click "Analyze Resume" to see your results here.</p>
+        </div>
+        
+    </main>
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
