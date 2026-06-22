@@ -86,9 +86,11 @@ The ATS score is computed from up to 5 independent checks, each scored 0-10:
 ---
 
 ## Screenshots
-
+### Upload Interface
 ![Upload UI](screenshots/upload.png)
+### Resume Analysis (Without Job Description)
 ![Analysis Without JD](screenshots/results_without_jd.png)
+### Resume Analysis (With Job Description)
 ![Analysis With JD](screenshots/results_with_jd.png)
 
 ---
