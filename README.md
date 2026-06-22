@@ -87,7 +87,9 @@ The ATS score is computed from up to 5 independent checks, each scored 0-10:
 
 ## Screenshots
 
-*(Add screenshots here once captured)*
+![Upload UI](screenshots/upload.png)
+![Analysis Without JD](screenshots/results_without_jd.png)
+![Analysis With JD](screenshots/results_with_jd.png)
 
 ---
 
